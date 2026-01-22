@@ -6,5 +6,5 @@ resources:
 - preview-service.yaml
 images:
 - name: schoolofdevops/vote
-  newName: initcron/vote
-  newTag: e863922
+  newName: webmakaka/vote
+  newTag: bb59e96
